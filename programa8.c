@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(){
-    int codigo, qtd, aux;
-    float total;
+int main(){ //ALGORTIMO
+    int codigo, qtd, aux; //DECLARE codigo, qtd, aux NUMERICO
+    float total; //DECLARE total NUMERICO
 
     aux = 1;
 
@@ -43,7 +43,7 @@ int main(){
 
     printf("Valor total da Compra\n");
     printf("Total R$ %.2f\n", total);
-}
+}//FIM_ALGORITMO
 
 
 /*
